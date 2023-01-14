@@ -14,4 +14,4 @@ RUN npm install
 
 COPY . .
 
-CMD ["node", "Gojosensei.js"]
+CMD ["node", "nexus.js"]
