@@ -1,1 +1,1 @@
-web: node ./Gojo
+web: node ./Gojosensei.js
